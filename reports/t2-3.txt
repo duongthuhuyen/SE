@@ -1,0 +1,39 @@
+- Tuần 2:
+1.Báo cáo nhóm:
+*, DONE:
+phương pháp sử lý bài toán detect
+*,VƯỚNG MẮC:
+- Xây dựng chatbot
+*, kế hoạch tuần sau:
+- tìm ra phương án xây dựng chatbox tốt nhất
+2. cá nhân
+-Dương Thị Thu Huyền:
+*Done: tìm hiểu được 1/2 pp sử lý bt detect
+* vướng mắc :
+ xây dựng chatbot
+*kế hoạch tuần sau:
+-tìm hiểu nốt phương pháp 
+- tìm ra phương án xây dựng chatbot tốt nhất
+
+-Nguyễn Khương Đức
+*Done: tìm hiểu được cách xây dựng 1 vài model cơ bản
+* vướng mắc :
+ xây dựng chatbot
+*kế hoạch tuần sau:
+-tìm hiểu nốt về các model và các hàm trong python
+-tìm hiểu cách xây dựng chatbot
+
+-Bùi Thế Anh
+*Done: tìm hiểu được các library, các hàm python, xây dựng 1 số model
+*Vướng mắc:
+xây dựng chatbot
+*kế hoạch tuần sau:
+-tìm hiểu nốt về các model 
+-tìm ra phương án xây dựng chatbot tốt nhất
+
+-Nguyễn Thành Vinh
+*Done: Tìm hiểu về cách hoạt động của chatbot, tìm hiểu được 1 chút yolo 
+*Vướng mắc :
+-Chưa hiểu rõ chatbot, yolo hoạt động.
+*Kế hoạch tuần sau:
+-Tìm hiểu về vấn đề chưa hiểu của chatbot và yolo
