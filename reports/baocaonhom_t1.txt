@@ -13,3 +13,7 @@ CÀI ĐẶT THÀNH CÔNG ANACONDA,OPENCV
 xây dựng model, xây dựng chatbox
 *kế hoạch tuần sau:
 - tìm ra phương án xây dựng chatbox tốt nhất
+-Nguyễn Thành Vinh:
+*Done: tìm hiểu thư viện numpy, opencv
+*Vướng mắc: Một vài hàm khó trong opencv, ứng dụng của thư viện numpy
+*Kế Hoạch Tuần Sau: Tìm hiểu hoạt động chatbox 
