@@ -15,6 +15,7 @@ xây dựng model, xây dựng chatbox
 - tìm ra phương án xây dựng chatbox tốt nhất
 
 
+
 Nguyễn Khương Đức
 done:
 +làm quen với python và các thư viện
@@ -25,3 +26,8 @@ vướng mắc :
 kế hoạch tuần sau
 +giải quyết vướng mắc tuần 1
 +tìm hiểu dần về model,xây dựng model
+-Nguyễn Thành Vinh:
+*Done: tìm hiểu thư viện numpy, opencv
+*Vướng mắc: Một vài hàm khó trong opencv, ứng dụng của thư viện numpy
+*Kế Hoạch Tuần Sau: Tìm hiểu hoạt động chatbox
+
