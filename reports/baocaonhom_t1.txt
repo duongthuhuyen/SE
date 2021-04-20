@@ -13,3 +13,15 @@ CÀI ĐẶT THÀNH CÔNG ANACONDA,OPENCV
 xây dựng model, xây dựng chatbox
 *kế hoạch tuần sau:
 - tìm ra phương án xây dựng chatbox tốt nhất
+
+
+Nguyễn Khương Đức
+done:
++làm quen với python và các thư viện
++tìm hiểu về yolo
+vướng mắc :
++chưa tìm hiểu sâu được về các hàm quan trọng trong python
+
+kế hoạch tuần sau
++giải quyết vướng mắc tuần 1
++tìm hiểu dần về model,xây dựng model
