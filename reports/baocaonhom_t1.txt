@@ -21,11 +21,12 @@ done:
 +làm quen với python và các thư viện
 +tìm hiểu về yolo
 vướng mắc :
-+chưa tìm hiểu sâu được về các hàm quan trọng trong python
-
++chưa tìm hiểu sâu được về các hàm quan trọng trong pythn
 kế hoạch tuần sau
 +giải quyết vướng mắc tuần 1
 +tìm hiểu dần về model,xây dựng model
+
+
 -Nguyễn Thành Vinh:
 *Done: tìm hiểu thư viện numpy, opencv
 *Vướng mắc: Một vài hàm khó trong opencv, ứng dụng của thư viện numpy
