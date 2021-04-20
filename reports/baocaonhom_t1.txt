@@ -41,4 +41,9 @@ kế hoạch tuần sau
 -chưa tìm hiểu sâu được về các hàm quan trọng trong python
 *kế hoạch tuần sau
 -giải quyết vướng mắc tuần 1
--tìm hiểu dần về model,xây dựng model
+-tìm hiểu dần về model,xây dựng mod
+
+-Nguyễn Tuấn Vinh
+*Done: tìm hiểu về opencv, thư viện numpy,yolo
+*Vướng mắc: chưa hiểu rõ về hàm trong opencv
+*kế hoạch tuần tới: tìm hiểu hàm trong opencv, tìm hiểu về hoạt động chatbox
