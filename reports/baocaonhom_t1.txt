@@ -32,3 +32,13 @@ kế hoạch tuần sau
 *Vướng mắc: Một vài hàm khó trong opencv, ứng dụng của thư viện numpy
 *Kế Hoạch Tuần Sau: Tìm hiểu hoạt động chatbox
 
+
+-Bùi Thế Anh
+*done:
+-làm quen với python và các thư viện
+-tìm hiểu về yolo
+*vướng mắc :
+-chưa tìm hiểu sâu được về các hàm quan trọng trong python
+*kế hoạch tuần sau
+-giải quyết vướng mắc tuần 1
+-tìm hiểu dần về model,xây dựng model
