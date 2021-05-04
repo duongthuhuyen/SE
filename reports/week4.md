@@ -9,11 +9,8 @@ Báo cáo nhóm
 
 Báo cáo cá nhân
 1. Dương Thị Thu Huyền
-  *Done: làm dữ liệu 
+  * Done: Làm dữ liệu
+  * Vướng mắc : kết nối giữa chatbox với model detect
+  * kế hoạch tuần sau: kết nối giữa chatbox vs model
   
-  *vướng mắc 
-   kết nối giữa chatbox vs model detect
-   
-  *kế hoạch tuần sau
-   kết nối giữa chatbox vs model detect
-
+ 
