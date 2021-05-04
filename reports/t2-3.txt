@@ -37,3 +37,10 @@ xây dựng chatbot
 -Chưa hiểu rõ chatbot, yolo hoạt động.
 *Kế hoạch tuần sau:
 -Tìm hiểu về vấn đề chưa hiểu của chatbot và yolo
+
+-Nguyễn Tuấn Vinh 
+*Done: Tìm hiểu về cách hoạt động của chatbot,  yolo
+*Vướng mắc :
+-Chưa hiểu rõ hoạt động chatbot,yolo.
+*Kế hoạch tuần sau:
+-Tìm hiểu về vấn đề chưa hiểu cua chatbot và yolo
