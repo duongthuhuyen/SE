@@ -12,5 +12,8 @@ Báo cáo cá nhân
   * Done: Làm dữ liệu
   * Vướng mắc : kết nối giữa chatbox với model detect
   * kế hoạch tuần sau: kết nối giữa chatbox vs model
-  
- 
+2. Nguyen khuong duc
+ done : tim hieu xong ve yolo 
+ vuong mac : chua hieu cach thuc hoat dong cua chatbot 
+ ke hoach tuan sau : hoan thanh vuong mac va tim hieu them ve model detec
+
