@@ -24,3 +24,7 @@ kế hoạch tuần sau: giải quyết vướng mắc, tim hiểu thêm về yo
 done: Tìm hiểu về Yolo
 Vướng mắc: chưa hiểu cách hoạt động của yolo
 kế hoạch tuần sau: giải quyết vướng mắc về yolo.
+4. Nguyễn Thành Vinh 
+#Done: Tìm hiểu cơ bản hoạt động của yolo 
+#Vướng mắc: Một số phần trong cơ chế hoạt động yolo 
+#kế hoạch tuần sau: Tìm hiểu kĩ thêm về cách detect của yolo
