@@ -20,3 +20,7 @@ Báo cáo cá nhân
 done:tìm hiểu về hoạt động của yolo
 vướng mắc: cách cai dat yolo
 kế hoạch tuần sau: giải quyết vướng mắc, tim hiểu thêm về yolo , cách hoạt động yolo.
+4. Bùi Thế Anh
+done: Tìm hiểu về Yolo
+Vướng mắc: chưa hiểu cách hoạt động của yolo
+kế hoạch tuần sau: giải quyết vướng mắc về yolo.
