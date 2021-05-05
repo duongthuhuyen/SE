@@ -16,4 +16,7 @@ Báo cáo cá nhân
  done : tim hieu xong ve yolo 
  vuong mac : chua hieu cach thuc hoat dong cua chatbot 
  ke hoach tuan sau : hoan thanh vuong mac va tim hieu them ve model detec
-
+3. Nguyễn Tuấn Vinh
+done:tìm hiểu về hoạt động của yolo
+vướng mắc: cách cai dat yolo 
+kế hoạch tuần sau: giải quyết vướng mắc, tim hiểu thêm về yolo , cách hoạt động yolo.
