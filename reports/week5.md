@@ -12,3 +12,6 @@ Báo cáo nhóm
 * Done: Làm dữ liệu
 * Vướng mắc : kết nối giữa chatbox với model detect
 * kế hoạch tuần sau: kết nối giữa chatbox vs model
+2. Nguyễn Khương Đức
+* done: chưa hoàn thành được kế hoạch tuần trước
+* kế hoạch tuần tiếp : hoàn thiện ,giải đấp thắc mắc về những điều chưa hoàn thành ở tuần trước
