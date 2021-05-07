@@ -15,3 +15,7 @@ Báo cáo nhóm
 2. Nguyễn Khương Đức
 * done: chưa hoàn thành được kế hoạch tuần trước
 * kế hoạch tuần tiếp : hoàn thiện ,giải đấp thắc mắc về những điều chưa hoàn thành ở tuần trước
+3. Bùi Thế Anh
+* done: Tìm hiểu về Yolo
+* Vướng mắc: chưa hiểu cách hoạt động của yolo
+* kế hoạch tuần sau: giải quyết vướng mắc về yolo.
