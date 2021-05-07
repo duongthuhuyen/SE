@@ -29,3 +29,7 @@ Báo cáo nhóm
 * Done: tìm hiều xong về yolo
 * Vướng mắc: cài đặt yolo, làm dữ liệu
 * Kế hoạch tuần tới: giải quyết vướng mắc, và làm dữ liệu
+5. Nguyễn Thành Vinh
+#Done: Tìm hiểu hoạt động của yolo
+#Vướng mắc: Một số phần khó cơ chế hoạt động yolo
+#Kế Hoạch tuần sau: Tìm hiểu phần phần chưa hiểu của yolo
