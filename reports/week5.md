@@ -26,7 +26,7 @@
 4. Nguyễn Tuấn Vinh
 * Done: tìm hiều xong về yolo
 * Vướng mắc: cài đặt yolo, làm dữ liệu
-* Kế hoạch tuần tới: giải quyết vướng mắc, và làm dữ liệu
+* Kế hoạch tuần tới: giải quyết vướng mắc, và làm dữ liệu.
 
 5. Nguyễn Thành Vinh
 - Done: Tìm hiểu hoạt động của yolo
