@@ -15,3 +15,7 @@ Vướng mắc :
  * phương án giao diện demo
 kế hoạch tuần sau: 
  * tìm phương án làm giao diện demo
+ 2. Nguyễn Tuấn Vinh
+ * vướng mắc: làm dữ liệu
+ * kế hoạch tuần sau: làm dữ liệu
+
