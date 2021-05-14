@@ -7,8 +7,9 @@ Vướng mắc
  * giao diện demo
 Kế hoạch tuần sau:
  * phương án
+ 
 Báo cáo cá nhân
-Dương Thị Thu Huyền
+1. Dương Thị Thu Huyền
  * Done: Làm dữ liệu
 Vướng mắc :
  * phương án giao diện demo
