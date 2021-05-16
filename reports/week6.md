@@ -18,4 +18,11 @@ kế hoạch tuần sau:
  2. Nguyễn Tuấn Vinh
  * vướng mắc: làm dữ liệu
  * kế hoạch tuần sau: làm dữ liệu
-
+ 3. Nguyễn Thành Vinh
+  Done: 
+ - Tìm hiểu,chạy thử detect của yolo
+  Vương mắc: 
+ - Một vài phần về cách hoạt động detect human của yolo
+ Kế hoạch tuần sau:
+ - Làm đữ liệu
+ - Tìm cách liên kết chatbot với detect human
