@@ -26,3 +26,7 @@ kế hoạch tuần sau:
  Kế hoạch tuần sau:
  - Làm đữ liệu
  - Tìm cách liên kết chatbot với detect human
+4.Bùi Thế Anh
+* Done: hoàn thành vướng mắc tuần trưỡc
+* Vướng mắc: làm dữ liệu
+* Kế hoạch tuần sau: làm dữ liệu và tìm hiểu cách hoạt động detect human của yolo
