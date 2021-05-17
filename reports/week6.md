@@ -30,3 +30,9 @@ kế hoạch tuần sau:
 * Done: hoàn thành vướng mắc tuần trưỡc
 * Vướng mắc: làm dữ liệu
 * Kế hoạch tuần sau: làm dữ liệu và tìm hiểu cách hoạt động detect human của yolo
+5. Nguyễn Khương Đức
+* Done:
+ - Tìm hiểu,chạy thử detect của yolo
+* Vương mắc:
+ - Một vài phần về cách hoạt động detect human của yolo
+* Kế hoạch tuần sau: làm dữ liệu và tìm hiểu cách hoạt động detect human của yolo 
