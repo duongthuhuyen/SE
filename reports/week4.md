@@ -18,5 +18,18 @@ Báo cáo cá nhân
  ke hoach tuan sau : hoan thanh vuong mac va tim hieu them ve model detec
 3. Nguyễn Tuấn Vinh
 done:tìm hiểu về hoạt động của yolo
+<<<<<<< HEAD
 vướng mắc: cách cai dat yolo 
 kế hoạch tuần sau: giải quyết vướng mắc, tim hiểu thêm về yolo , cách hoạt động yolo.
+=======
+vướng mắc: cách cai dat yolo
+kế hoạch tuần sau: giải quyết vướng mắc, tim hiểu thêm về yolo , cách hoạt động yolo.
+4. Bùi Thế Anh
+done: Tìm hiểu về Yolo
+Vướng mắc: chưa hiểu cách hoạt động của yolo
+kế hoạch tuần sau: giải quyết vướng mắc về yolo.
+5. Nguyễn Thành Vinh 
+#Done: Tìm hiểu cơ bản hoạt động của yolo 
+#Vướng mắc: Một số phần trong cơ chế hoạt động yolo 
+#kế hoạch tuần sau: Tìm hiểu kĩ thêm về cách detect của yolo
+>>>>>>> e5f6f52a4357da6599f5964fad0cc3cf13f5328b
